@@ -1,4 +1,4 @@
-[<img width="735" height="420" alt="Image" src="https://github.com/user-attachments/assets/1fc0c4a1-cba4-49f2-a27f-58f40a47e7c8" />](https://github.com/s1llyjester)
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/b280f655-5857-4ab5-8283-141e55ab250e" />
 
 ${\color{#1D73FF}Welcome}$
 ${\color{#1D73FF}folks,}$
